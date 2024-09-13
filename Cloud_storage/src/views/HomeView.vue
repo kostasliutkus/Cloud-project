@@ -8,5 +8,6 @@ import ListComponent from '../components/ListComponent.vue'
     <!-- <TheWelcome /> -->
     <ListComponent/>
     <h1>Pakeiciau</h1>
+    <h1>Pakeiciau</h1>
   </main>
 </template>
